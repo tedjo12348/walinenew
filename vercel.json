@@ -1,6 +1,5 @@
 {
   "name": "waline-neon-vercel",
-  "private": true,
   "type": "module",
   "engines": {
     "node": "20.x"

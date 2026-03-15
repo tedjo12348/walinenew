@@ -1,0 +1,9 @@
+{
+  "name": "waline-neon-vercel-template",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@waline/vercel": "^1.4.0",
+    "@neondatabase/serverless": "^0.9.0"
+  }
+}

@@ -10,6 +10,6 @@
     "@waline/client": "latest"
   },
   "engines": {
-    "node": "18.x"
+    "node": "20x"
   }
 }

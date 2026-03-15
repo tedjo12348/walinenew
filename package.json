@@ -1,14 +1,15 @@
 {
-   "name": "waline-server",
+  "name": "waline-server",
   "version": "1.0.0",
   "private": true,
-  "dependencies": {
-    "@waline/vercel": "latest",
-    "@waline/client": "latest"
   "scripts": {
     "start": "node api/index.js"
   },
   "dependencies": {
-    "@waline/vercel": "latest"
+    "@waline/vercel": "latest",
+    "@waline/client": "latest"
+  },
+  "engines": {
+    "node": "18.x"
   }
 }

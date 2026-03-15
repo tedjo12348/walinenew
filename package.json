@@ -2,11 +2,11 @@
   "name": "waline-server",
   "version": "1.0.0",
   "private": true,
-  "scripts": {
-    "start": "node api/index.js"
-  },
   "dependencies": {
     "@waline/vercel": "latest",
     "@waline/client": "latest"
-  "engines": { "node": "24.x" }
+  },
+  "engines": {
+    "node": "24.x"
+  }
 }
